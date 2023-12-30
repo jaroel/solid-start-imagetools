@@ -10,8 +10,9 @@
     "@solidjs/meta": "^0.29.2",
     "@solidjs/router": "^0.10.5",
     "@solidjs/start": "^0.4.2",
+    "@vinxi/server-functions": "0.0.58",
     "solid-js": "^1.8.7",
-    "vinxi": "0.0.59"
+    "vinxi": "0.0.61"
   },
   "engines": {
     "node": ">=18"
